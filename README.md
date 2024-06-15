@@ -1,5 +1,4 @@
-Walmart Sales Data Analysis:
-
+# Walmart Sales Data Analysis:
 This project involves comprehensive preprocessing, visualization, and analysis of the Walmart Sales dataset. The goal is to gain insights into sales patterns, identify top-performing stores, and understand the impact of holidays on sales. Below is a detailed description of the tasks performed:
 
 1. Data Preprocessing
